@@ -1,0 +1,14 @@
+import { Hero } from './hero';
+// list with mock heroes
+export const  HEROES: Hero[] = [
+  { id: 11, name: 'Dr Nice' },
+  { id: 12, name: 'Narco' },
+  { id: 13, name: 'Bombasto' },
+  { id: 14, name: 'Celeritas' },
+  { id: 15, name: 'Magneta' },
+  { id: 16, name: 'Ewan' },
+  { id: 17, name: 'Meecha' },
+  { id: 18, name: 'Shelby' },
+  { id: 19, name: 'Angel' },
+  { id: 20, name: 'Tuxen'}
+];
